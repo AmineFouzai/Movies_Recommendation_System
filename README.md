@@ -19,7 +19,7 @@ ratings_data.head()
 
 <div>
 
-<table border="1" class="dataframe">
+<table  class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -84,7 +84,7 @@ movies_names.head()
 
 <div>
 
-<table border="1" class="dataframe">
+<table  class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -143,7 +143,7 @@ movies_data.head()
 
 <div>
 
-<table border="1" class="dataframe">
+<table  class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -261,7 +261,7 @@ ratings_mean_count.head()
 
 <div>
 
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
